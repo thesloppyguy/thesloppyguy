@@ -1,4 +1,4 @@
-![A cover image that says "SAHIL SOFTWARE ENGINEER" on the left. On right, there's a cartoon character representing sahil waving his hand](https://github.com/thesloppyguy/thesloppyguy/master/img/gitbanner.jpg?raw=true)
+![A cover image that says "SAHIL SOFTWARE ENGINEER" on the left. On right, there's a cartoon character representing sahil waving his hand](https://github.com/thesloppyguy/thesloppyguy/blob/main/img/gitbanner.png)
 
 ## Hi, I am Sahil (He/ Him) ☺️
 
