@@ -18,8 +18,8 @@
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thesloppyguy&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesloppyguy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesloppyguy&theme=dark&hide_border=false" alt="image" width="400" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesloppyguy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="image" width="400" height="200">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesloppyguy&theme=dark&hide_border=false" alt="image" width="3400" height="auto">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesloppyguy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="image" width="300" height="auto">
 
 ## 🏆 GitHub Trophies
 
