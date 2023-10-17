@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on LLMs and FullStack Development. <br>🤝 I’m looking for help with potential contact work.<br>🌱 I’m currently learning GoLang. <br>
+🔭 I’m currently working on LLMs and FullStack Development. <br>🤝 I’m looking for potential remote or contact work.<br>🌱 I’m currently learning GoLang. <br>
 
 <img src="https://visitcount.itsvg.in/api?id=thesloppyguy&label=Profile%20Views&color=0&icon=0&pretty=false"  alt=""/>
 
